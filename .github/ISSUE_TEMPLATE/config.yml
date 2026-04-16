@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Get help on Discord
+  - name: Discord Server
     url: https://discord.gg/H5MNcFW63r
-    about: Join the yt-dlp Discord server for support and discussion
+    about: For general discussions and support
+  - name: Matrix Room
+    url: https://matrix.to/#/#yt-dlp:matrix.org
+    about: For general discussions and support (Matrix)
+  - name: yt-dlp Documentation
+    url: https://github.com/yt-dlp/yt-dlp/blob/master/README.md
+    about: Please read the documentation before opening an issue
